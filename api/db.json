@@ -1,0 +1,200 @@
+{
+  "products": [
+    {
+      "image": "img/img1.jpg",
+      "description": {
+        "title": "Blusa",
+        "price": "$43000"
+      }
+    },
+    {
+      "image": "img/img2.jpg",
+      "description": {
+        "title": "Blusa (2)",
+        "price": "$45000"
+      }
+    },
+    {
+      "image": "img/img3.jpg",
+      "description": {
+        "title": "Blusa (3)",
+        "price": "$66000"
+      }
+    },
+    {
+      "image": "img/img4.jpg",
+      "description": {
+        "title": "Bolso",
+        "price": "$60000"
+      }
+    },
+    {
+      "image": "img/img5.jpg",
+      "description": {
+        "title": "Blusa + Jean",
+        "price": "$112000"
+      }
+    },
+    {
+      "image": "img/img6.jpg",
+      "description": {
+        "title": "Jean",
+        "price": "$85000"
+      }
+    },
+    {
+      "image": "img/img7.jpg",
+      "description": {
+        "title": "Jean (2)",
+        "price": "$90000"
+      }
+    },
+    {
+      "image": "img/img8.jpg",
+      "description": {
+        "title": "Blusa + Jean (2)",
+        "price": "$113000"
+      }
+    },
+    {
+      "image": "img/img9.jpg",
+      "description": {
+        "title": "Chaqueta",
+        "price": "$68000"
+      }
+    },
+    {
+      "image": "img/img10.jpg",
+      "description": {
+        "title": "Blusa + Chaqueta",
+        "price": "$96000"
+      }
+    },
+    {
+      "image": "img/img11.jpg",
+      "description": {
+        "title": "Jean (3)",
+        "price": "$75000"
+      }
+    },
+    {
+      "image": "img/img12.jpg",
+      "description": {
+        "title": "Chaqueta + Jean",
+        "price": "$143000"
+      }
+    },
+    {
+      "image": "img/img13.jpg",
+      "description": {
+        "title": "Blusa (4)",
+        "price": "$49000"
+      }
+    },
+    {
+      "image": "img/img14.jpg",
+      "description": {
+        "title": "Blusa (5)",
+        "price": "$40000"
+      }
+    },
+    {
+      "image": "img/img15.jpg",
+      "description": {
+        "title": "Blusa (6)",
+        "price": "$42000"
+      }
+    },
+    {
+      "image": "img/img16.jpg",
+      "description": {
+        "title": "Saco",
+        "price": "$59000"
+      }
+    },
+    {
+      "image": "img/img17.jpg",
+      "description": {
+        "title": "Short + Blusa",
+        "price": "$95000"
+      }
+    },
+    {
+      "image": "img/img18.jpg",
+      "description": {
+        "title": "Jean + Blusa + Bolso",
+        "price": "$169000"
+      }
+    },
+    {
+      "image": "img/img19.jpg",
+      "description": {
+        "title": "Short",
+        "price": "$55000"
+      }
+    },
+    {
+      "image": "img/img20.jpg",
+      "description": {
+        "title": "Jean (4)",
+        "price": "$80000"
+      }
+    },
+    {
+      "image": "img/img21.jpg",
+      "description": {
+        "title": "Falda + Blusa",
+        "price": "$122000"
+      }
+    },
+    {
+      "image": "img/img22.jpg",
+      "description": {
+        "title": "Blusa (7)",
+        "price": "$64000"
+      }
+    },
+    {
+      "image": "img/img23.jpg",
+      "description": {
+        "title": "Blusa (8)",
+        "price": "$50000"
+      }
+    },
+    {
+      "image": "img/img24.jpg",
+      "description": {
+        "title": "Blusa (9)",
+        "price": "$58000"
+      }
+    },
+    {
+      "image": "img/img25.jpg",
+      "description": {
+        "title": "Conjunto",
+        "price": "$125000"
+      }
+    },
+    {
+      "image": "img/img26.jpg",
+      "description": {
+        "title": "Blusa + Jean (3)",
+        "price": "$147000"
+      }
+    },
+    {
+      "image": "img/img27.jpg",
+      "description": {
+        "title": "Conjunto (2)",
+        "price": "$135000"
+      }
+    },
+    {
+      "image": "img/img28.jpg",
+      "description": {
+        "title": "Blusa (10)",
+        "price": "$52000"
+      }
+    }
+  ]
+}
